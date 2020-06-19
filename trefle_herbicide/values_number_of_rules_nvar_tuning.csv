@@ -1,0 +1,6 @@
+param_a,param_b,weight,CV_num,tn,fp,fn,tp,file_name
+4.0,2.0,1.0,0.0,2.0,4.0,1.0,3.0,exps_lab_lfa_number_of_rules_var_tuning_weigh_actual_1.0_conf_A_CV_4_rule_4_var_per_rule_2.ftt
+4.0,2.0,1.0,1.0,2.0,3.0,1.0,4.0,exps_lab_lfa_number_of_rules_var_tuning_weigh_actual_1.0_conf_A_CV_3_rule_4_var_per_rule_2.ftt
+4.0,2.0,1.0,2.0,1.0,2.0,3.0,4.0,exps_lab_lfa_number_of_rules_var_tuning_weigh_actual_1.0_conf_A_CV_0_rule_4_var_per_rule_2.ftt
+4.0,2.0,1.0,3.0,1.0,4.0,1.0,3.0,exps_lab_lfa_number_of_rules_var_tuning_weigh_actual_1.0_conf_A_CV_2_rule_4_var_per_rule_2.ftt
+4.0,2.0,1.0,4.0,2.0,3.0,1.0,3.0,exps_lab_lfa_number_of_rules_var_tuning_weigh_actual_1.0_conf_A_CV_1_rule_4_var_per_rule_2.ftt
